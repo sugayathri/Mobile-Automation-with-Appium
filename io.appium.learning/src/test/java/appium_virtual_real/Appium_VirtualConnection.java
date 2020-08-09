@@ -1,6 +1,5 @@
 package appium_virtual_real;
 
-import java.io.IOException;
 import java.net.MalformedURLException;
 import java.net.URL;
 
