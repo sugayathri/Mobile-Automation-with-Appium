@@ -28,5 +28,18 @@ public class Dial_A_Number {
 		dc.setCapability("appActivity", "com.android.mms.ui.ConversationList");
 		URL url=new URL("http://127.0.0.1:4723/wd/hub");
 		AndroidDriver<WebElement>driver=new AndroidDriver<WebElement>(url, dc);
+<<<<<<< HEAD
 		}
 	}
+=======
+		
+		
+
+	
+		
+		
+	}
+
+}
+
+>>>>>>> 136daa56329a53d775c8133db1c54684eb5439ab
