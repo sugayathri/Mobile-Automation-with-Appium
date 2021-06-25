@@ -23,10 +23,5 @@ public class Appium_VirtualConnection
 		
 		URL url=new URL("http://127.0.0.1:4723/wd/hub");
 		AndroidDriver<WebElement> ad=new AndroidDriver<WebElement>(url, dc);
-	
-		
-		
-
 	}
-
 }

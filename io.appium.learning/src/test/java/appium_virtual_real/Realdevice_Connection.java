@@ -39,13 +39,5 @@ public class Realdevice_Connection {
 	        		ad.findElement(By.id("com.android.calculator2:id/formula"));
         		/*WebElement clear=ad.findElement(By.id("com.android.calculator2:id/op_clr"));
 	        		clear.click();   */
-	        	
-	        		
-	        		
-	        		
-	        		
-	        		
-	      
-	}
-
+	        	}
 }
